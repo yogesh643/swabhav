@@ -1,0 +1,71 @@
+create a folder 
+make a new txt file in folder
+type something in file like ( day 1 ) 
+open file in github software
+firstly enter git init
+
+to check status 
+                 git status
+
+to add something
+                  git add (write add as u want )
+
+to commit 
+              (firstly confirm ur email id and ur name)               
+               git commit -m 'as u want '
+
+to log 
+              git log ( it use to check status to any erore )
+                and give u hadetag no. to checkout ur changese and creation
+
+          TO SECOND PROSESS GO IN FILE AND CHANGE UR WORD 
+          AND DO ALL STEP TO GET SECOND HADETAG NO. 
+
+         TO AGAIN AND AGAIN AND WHEN ITS COMPLETE THEN......
+
+
+NOW WE CHECK OUR HADECODE.....Its CHECK OUT DO FIRT 4 WORD TAKE OUR HADETAG (git checkout 1st 4 digit. no.) AND ENTER 
+THE OUR SOFTWARE 
+AND CHECK UR UPDATE 
+AND LAST change it master ( git checkout master )
+
+
+
+NOW WE CONVERT OUR PROGRAM IN  ( GITHUB )  
+LOGIN UR GITHUB WEBSITE....
+
+COME IN SOFTWARE 
+                 
+                 > git remote -v 
+                 > git remote add ( ur file name in github website )  ( copy ur website )
+                 > git remote -v   ( to check ur convert file )
+                 > git push (ur file name ) master 
+    
+
+            NOW OPEN A USRENAME AND PASSWARD PAGE FILL THE PAGE AND CHEKOUT UR FILE TRANSFER IN GITHUB SITE
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
