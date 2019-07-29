@@ -46,9 +46,9 @@ COME IN SOFTWARE
   
 
    add
-commit 
-push
-
+   commit 
+   push
+thies are 3 type are very important in java 
 
 
 
