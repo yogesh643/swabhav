@@ -50,7 +50,11 @@ COME IN SOFTWARE
    push
 thies are 3 type are very important in java 
 
-
+                               { >git add = add any extera text
+                                 >git status = check erore 
+                                 >git commit -m 'text any thing like masage or anything' = to commit any masage 
+                                 >git log = get hagetake no.
+                                }
 
 
 
